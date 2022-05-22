@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# JUAN F. ROJAS PORTFOLIO
+### Data Engineer - https://www.linkedin.com/in/juanfrojas48/
+### jf.rojas48@gmail.com  
 
 You can use the [editor on GitHub](https://github.com/juanfeliperojas/Juan_Rojas_rep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
