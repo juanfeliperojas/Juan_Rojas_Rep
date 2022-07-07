@@ -1,6 +1,13 @@
 # JUAN F. ROJAS PORTFOLIO
 ### Data Engineer - https://www.linkedin.com/in/juanfrojas48/
-### jf.rojas48@gmail.com  
+jf.rojas48@gmail.com  
+
+I am a innovative trilingual engineer with 8+ years of experience providing technical guidance and supervision about data
+analytics and engineering for the public sector, who is looking for opportunities to upskill in the data science field. Accomplished researcher with coauthor credits in several studies that analyzed large datasets and found solutions to major problems with water
+and sanitation. Leader of initiatives for the development and improvement of KPIs, databases and visualization of
+reports for the assessment of public policies in the water and sanitation sector.
+
+
 
 You can use the [editor on GitHub](https://github.com/juanfeliperojas/Juan_Rojas_rep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
